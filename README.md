@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/129fad72-dc36-4505-92d6-7b8a6b0d442b)# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
-
 # AIM:
 To develop a Hospital Management System that efficiently handles patient records, doctor appointments, billing, and staff management to streamline hospital operations and improve patient care.
 # SRS (Procedure):
